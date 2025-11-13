@@ -1,6 +1,6 @@
 package com.managecv.inventory.model.enums;
 
-public enum TipoMovimento {
+public enum MovementType {
     ENTRADA,
     VENDA,
     PERDA,
